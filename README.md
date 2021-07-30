@@ -4,5 +4,4 @@
 
 # About
 
-- I’m @wordlesstruth, a software engineer interested in a whole array of things. 
 - I use gitlab for work so I don't have a ton of green squares. 🟩
