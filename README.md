@@ -4,4 +4,3 @@
 
 # About
 
-- I use gitlab for work so I don't have a ton of green squares. 🟩
